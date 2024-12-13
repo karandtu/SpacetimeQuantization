@@ -1,0 +1,1 @@
+Python implementation to explore quantizing spacetime by simulating quantum fluctuations on a grid and calculating curvature. The script allows for user-defined grid size, Planck length, and simulation steps.
